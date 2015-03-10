@@ -1,1 +1,30 @@
-Congratulations Billy you got the contract!  
+Congratulations Billy, you got the contract!  It's too bad your new client needs the whole website in 2 days!  I guess you'll be coding for the next 48 hours straight.  If only there was an easier way.  ...Oh wait, there is!  Bootstrap!
+
+WHAT IS BOOTSTRAP?
+So you've never used Bootstrap?  Boy are you missing out.  Bootstrap is a collection of stylesheets, html and javascript components that help you quickly and easily create a styled responsive mobile first website.
+
+Huh?  ...A Bootstrap website will give you a sleek uniformed look no matter what browser you are using on anysized screen.  Thats all.
+
+______________________________
+Top 5 Reasons to use Bootstrap
+______________________________
+1. Speed - Undoubtedly one of the biggest advantages of using Bootstrap is the speed of development. If you’re looking to push out a new website or application quickly, you should definitely consider using Bootstrap.
+ 
+Rather than coding from scratch, Bootstrap enables you to utilize ready made blocks of code to help you get started. Combine that with cross-browser compatibility and CSS-Less functionality, many hours of coding can be saved. To achieve the fastest route possible, you can also purchase ready-made Bootstrap themes and modify them to suit your needs.
+
+2. Responsiveness - Mobile devices continue to grow in popularity year after year. Cisco predicts that global mobile data traffic will increase nearly 11-fold between 2013 and 2018. The need to have a responsive website is becoming increasingly important.
+ 
+Creating mobile ready websites is a breeze with Bootstrap thanks to the fluid grid layout that dynamically adjusts to the proper screen resolution. There is virtually no work that needs to be done to achieve proper responsiveness.
+ 
+Using Bootstrap’s ready made classes, you can specify how many spots in the grid system you want each column to occupy. Then, you can specify at which point you want your columns to stack horizontally rather than vertically to display properly on mobile devices.
+
+3. Consistency - Bootstrap was actually founded on this principle. It was originally developed by a few Twitter employees as a framework to encourage consistency across internal tools. Co-Founder Mark Otto later realized it had potential beyond just an internal toolkit and released the first open-source version in August 2011.
+ 
+Mark also describes how Bootstrap was built using one core concept: pairing designers with developers. Doing so is what made Bootstrap successful at Twitter, and why it continues to be successful on the web.
+ 
+Put simply, Bootstrap ensures consistency regardless of who’s working on the project. In addition, results are uniform across platforms so output remains the same whether you’re using Firefox, Chrome or Internet Explorer.
+
+4. Customizable - Bootstrap can be tailor made according to the specifications of your project. Developers have the ability to pick and choose the features that are needed and the rest can be tossed. This is easily accomplished using the Bootstrap customize page. Simply tick off all the features you don’t need and your custom version of Bootstrap will be ready for download. How cool is that?
+
+5. Support - Bootstrap has a huge support community behind it so you can usually get help when you run into issues. Furthermore, Bootstrap itself is being continuously updated and the creators have been really good about putting out timely updates. It’s currently being hosted, developed and maintained on GitHub with over 9,000 commits and over 500 contributors.
+
