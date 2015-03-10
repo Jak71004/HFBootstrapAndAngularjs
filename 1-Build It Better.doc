@@ -28,3 +28,20 @@ Put simply, Bootstrap ensures consistency regardless of who’s working on the p
 
 5. Support - Bootstrap has a huge support community behind it so you can usually get help when you run into issues. Furthermore, Bootstrap itself is being continuously updated and the creators have been really good about putting out timely updates. It’s currently being hosted, developed and maintained on GitHub with over 9,000 commits and over 500 contributors.
 
+
+BILLY'S ON BOARD...LET'S GET STARTED.
+There are a few ways to get your site bootstrapped.  You can get your own copy of the code, upload it to your host, and maintain it all on your own; or you can link to it from your site.  Both options start with heading over to GetBootStrap.com/getting-started.
+
+...DOWNLOAD...
+You arrive and see 3 buttons.  One labeled "Download Bootstrap", another labeled "Download Source", and the third says "Download Sass".  The choice is yours, choose wisely.
+
+...Just Link It...
+Or you can scroll a little further down the page at GetBootstrap.com/getting-started and copy the 2 links for the cdn hosted bootstrap css and javascript files.
+ 
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+Of course the css file goes in your HTML pages <head> section and the javascript file needs to be placed right before the closing <body> tag.
+
+!--Don't forget to include the link for the latest jQuery files too!
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
