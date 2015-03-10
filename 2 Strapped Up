@@ -1,6 +1,13 @@
-2.With your boots strapped up, it's time to make a footprint (layout - column classes) 
-a. Don't touch that... 
-  i. before you start code gather requirements. (show requirements for winery) 
+WITH YOUR BOOTS STRAPPED UP, IT's TIME TO MAKE A FOOTPRINT
+  Now that he's learned about Bootstrap, Billy is super excited to start coding but not so fast Billy.  The last thing any developer should do is touch a computer.
+  
+DON'T TOUCH THAT...
+  Your client has a vision for the website.  In his mind he knows that the website will contain certain information and has a general idea of how he wants the site to look and feel.  Billy has his own thoughts.
+  
+  <IMG - Billy with thought bubble... 1.Get paid, 2. feed the dog, 3. Research aye-aye's >
+  
+  What Billy and the client are thinking are two different things.  The best thing to do is gather requirements from Billy's client.
+  
     -The site shall have 5 pages
     *home page
     *about page
@@ -20,26 +27,23 @@ a. Don't touch that...
     
     -the site shall respond properly to touch 
     
-  ii. still no touchy -- think about layout. how will users navigate between pages? 
-    -Nav bar?
-      *navbar on top?
-      *navbar on leftside?
-      
-    -Pills?
-      *on top?
-      *stacked?
+    Great, now that the boring part is over, can we start coding?
     
-  iii. now for something completely different -- don't code...what look and feel will the page need? 
-    -Is there a need for a big message front and center?
+STILL NO TOUCHY... 
+  Sun Tzu says, "It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected".  It's a very common misconception that he was talking about war, but in fact, he was talking about planning a website's layout.  He was one of the first webmasters.  Really.
+
+  It may seem like a trivial question, but how will users navigate between pages? Will you use a navigation bar?  Where will you put it on the page?  Will it go on the top or the left side?  Will your navigation bar include a searchbox?
+  
+  Maybe a navigation bar doesn't fit with the theme you're planning.  Maybe tabs would work better.  Or maybe buttons are the way to go.  No matter what Billy chooses, it needs to be consistent across the site so the user has great experience. 
     
-    -Should there be a "carousel"?
+  
+NOW FOR SOMETHING COMPLETELY DIFFERENT...DON'T CODE...
+  What look and feel will the site need? Is a light-hearted bright colored theme the right way to go?  Perhaps sleek and sultry is the best fit.
+  
+  Consider....
+  X
+  Y
+  Z
+  when you are deciding on a theme for the website.
     
-    -Will the theme be sleek/sophisticated or bright/carefree?
-    
-  iv. start coding.
-    -nav bar
-    -jumbotron
-    -grid / columns
-    -button sizes
-    
-    
+  WITHOUT FURTHER ADU, START CODING...AFTER THIS BREAK
