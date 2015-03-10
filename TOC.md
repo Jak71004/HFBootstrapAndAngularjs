@@ -5,14 +5,14 @@
     ii. still no touchy -- think about layout.  how will users navigate between pages?
     iii. now for something completely different -- don't code...what look and feel will the page need?
     iv. start coding.
-3. Home screen -> old idea -> Where you Running to? -- (Navigation)
+3. Home screen 
   a. navigation
   b. jumbotron
     - marketing message
   c. columns (3)
     - round images
     - captions
-4. Contact Us -> old idea -> Add flair with jumbotron & sliders --(think carousel theme)
+4. Contact Us
   a. form
     - user name
     - user email
@@ -20,7 +20,7 @@
   b. buttons
     - submit
     - cancel
-5. Photo Gallery -> old idea -> Media objects & thumbnails
+5. Photo Gallery
   a. jumbotron image
   b. thumbnails of images w/ captions
   c. maybe "responsive embed" if a slideshow
