@@ -1,8 +1,64 @@
-3.Home screen 
-  a. navigation 
-  b. jumbotron 
-    ◦marketing message 
-  c. columns (3) 
-    ◦round images
-    ◦captions 
+WORK BEGINS AT HOME
+  Billy has received the requirments from his client, given thought to the layout, and gotten approval from the client.  He is all ready to go.  Billy was told that this site should feel sleek, mature, and fluid.  It's time for Billy to start writing code and it all starts with the Home Page.
+  
+  <SCREENSHOT of the code for a bootstrapped blank html page>
+  <caption: Billy writes the first few lines of code to get his page started>
+  <arrows pointing to the bootstrap css link, bootstrap js link, and jquery link>
+  
+WHERE DO YOU WANT TO GO
+  Based on the guidance and opinion of the client, Billy thinks that it's best to have a simple navigation bar.  It's going to be across the top and have simple links to each of the pages in the requirements.  Billy has really gotten into bootstrap and already figured out how to make the navigation bar mobile friendly.
+  
+  
+  <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+      <a class="navbar-brand" href="#"><img src="..." alt="logo"/></a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">News & Events</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Photo Gallery</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+  
+  <EXPLAIN CODE>
+   
+JUST ANOTHER JUMBOTRON DANCE PARTY
+  Since the home screen is the first thing the client's users will see, it is really important to show big important information right away and to draw attention to it.  Enter the "Jumbotron".
+  
+  Billy's client just started hosting weddings at the winery and expects it to give the business a big boost so he wants extra attention to it.  Billy figured that he would place an image of a vineyard wedding in the Jumbotron with a call to action.  
+  
+<div class="jumbotron">
+  <img src="..." alt="..."/>
+  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+</div>
+    
+TABLES ARE DEAD.  LONG LIVE COLUMNS
+  To keep the home page feeling sleek, billy decides that there will be a lot of whitespace on the page.  Hey Billy, why not mention the upcoming tasting event, snippet of the vineyards history, and that other special thing they were talking about?
+  
+    Long gone are the days when tables are needed to align elements on a page.  With Bootstrap you can now use the "ROW" class to align elements to the grid.
+    
+    GRID EXPLAINATION
+    COL-XX-XX EXPLAINATIAN
+    <code snippet>
+    
+    With the columns in place, lets put our content.  What's that Billy, you want round images?  You got it!
+    ROUND IMAGE EXPLAINATION
+    CAPTION EXPLAINATION
+    BUTTON EXPLAINATION
+    CENTER IT ALL EXPLAINATION
 
