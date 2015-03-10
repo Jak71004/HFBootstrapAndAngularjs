@@ -1,0 +1,45 @@
+2.With your boots strapped up, it's time to make a footprint (layout - column classes) 
+a. Don't touch that... 
+  i. before you start code gather requirements. (show requirements for winery) 
+    -The site shall have 5 pages
+    *home page
+    *about page
+    *news and events
+    *directions
+    *contact us
+    *photo gallery
+    
+    -the site shall have a footer 
+    *containing copyright reservations (Copyright 2015. Company Name. All rights reserved.)
+    *press 
+    *contact info
+    
+    -the site shall render on desktops
+    
+    -the site shall render on mobile devices
+    
+    -the site shall respond properly to touch 
+    
+  ii. still no touchy -- think about layout. how will users navigate between pages? 
+    -Nav bar?
+      *navbar on top?
+      *navbar on leftside?
+      
+    -Pills?
+      *on top?
+      *stacked?
+    
+  iii. now for something completely different -- don't code...what look and feel will the page need? 
+    -Is there a need for a big message front and center?
+    
+    -Should there be a "carousel"?
+    
+    -Will the theme be sleek/sophisticated or bright/carefree?
+    
+  iv. start coding.
+    -nav bar
+    -jumbotron
+    -grid / columns
+    -button sizes
+    
+    
