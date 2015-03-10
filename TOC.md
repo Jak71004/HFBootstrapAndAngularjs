@@ -1,29 +1,29 @@
-1. Build it Better...use Bootstrap --(intro)
-2. With your boots strapped up, it's time to make a footprint (layout - column classes)
-  a. Don't touch that...
-    i. before you start code gather requirements. (show requirements for winery)
-    ii. still no touchy -- think about layout.  how will users navigate between pages?
-    iii. now for something completely different -- don't code...what look and feel will the page need?
-    iv. start coding.
-3. Home screen 
-  a. navigation
-  b. jumbotron
-    - marketing message
-  c. columns (3)
-    - round images
-    - captions
-4. Contact Us
-  a. form
-    - user name
-    - user email
-    - message
-  b. buttons
-    - submit
-    - cancel
-5. Photo Gallery
-  a. jumbotron image
-  b. thumbnails of images w/ captions
-  c. maybe "responsive embed" if a slideshow
+1. Build it Better...use Bootstrap --(intro) <br>
+2. With your boots strapped up, it's time to make a footprint (layout - column classes) <br>
+  a. Don't touch that... <br>
+    i. before you start code gather requirements. (show requirements for winery) <br>
+    ii. still no touchy -- think about layout.  how will users navigate between pages? <br>
+    iii. now for something completely different -- don't code...what look and feel will the page need? <br>
+    iv. start coding. <br>
+3. Home screen <br>
+  a. navigation <br>
+  b. jumbotron <br>
+    - marketing message <br>
+  c. columns (3) <br>
+    - round images <br>
+    - captions <br>
+4. Contact Us <br>
+  a. form <br>
+    - user name <br>
+    - user email <br>
+    - message <br>
+  b. buttons <br>
+    - submit <br>
+    - cancel <br>
+5. Photo Gallery <br>
+  a. jumbotron image <br>
+  b. thumbnails of images w/ captions <br>
+  c. maybe "responsive embed" if a slideshow <br>
 
 6. Sure it's pretty, but is it smart? --(Angular intro)
 
