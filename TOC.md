@@ -13,8 +13,10 @@ Part 0: (5 minutes total)
 -- Meet the Instructor (1 min)
 
 Part 1: (65 minutes total)
+Summary - In part one participants will learn about bootstrap and apply their knowledge to bulid and layout the framework for a generic website.  Each page they write will build upon the technology they just learned.  Some pages will have technology learned in the previous section to reinforce the skill and technology from the current section to  continue expanding their skillset.
+
 ~~Section 1 (36 minutes total)~~
-- It all starts at Home
+- It all starts at Home:  In this section participants will learn what makes a good landing page, be introduced to bootstrap, and start creating a good landing page implementing bootstrap features.
 --Section Intro (1 min)
 --Elements of good landing page (3 min)
 --Bootstrap intro (3 min)
@@ -26,13 +28,13 @@ Part 1: (65 minutes total)
 --Column Lab (3 min)
 
 ~~Section 2 (11 minutes total)~~
--Call Me Maybe
+-Call Me Maybe: In this section participants will learn how to layout elements in a bootstrap fashion and create a "Contact Page" for the website.
 --Section Intro (1 min)
 --Layout the Form (5 min)
 --Build the Form (5 min)
 
 ~~Section 3 (17 minutes total)~~
--If a Picture is Worth a thousand words, How Much is a Gallery Worth?
+-If a Picture is Worth a thousand words, How Much is a Gallery Worth?: In this section participants will learn what a jumbotron is, how to use media objects, and how to format it all in order to create a photo gallery.
 --Section Intro (1 min)
 --Layout the jumbotron (3 min)
 --Code the Jumbotron (3 min)
@@ -42,8 +44,10 @@ Part 1: (65 minutes total)
 Part 1 Wrap-Up (1 min)
 
 Part 2
+Summary: In part 1 students created a website and made it responsive and attractive.  In part 2 we will make it smart and maintainable by adding angular.
+
 ~~Section 1 (28 minutes total)~~
--Enter the AngularJS
+-Enter the AngularJS: Section one is all about the basics of angular.  By the end of this section participants will have a good understanding of angular fundamentals, where to get it, how to add it into a page, and how to verify they've added it correctly.
 --Introduction to SPA (5 min)
 --Introduction to Angular (5 min)
 --Key components of angular (5 min)
@@ -51,7 +55,7 @@ Part 2
 --Load Angular into your Home Page (3 min)
 
 ~~Section 2 (20 minutes total)~~
--The Cornerstones
+-The Cornerstones: In this section we will cover the corenerstones of angular; controllers and modules
 --What is a controller (5 min)
 --Build a controller (3 min)
 --What is a module (5 min)
@@ -59,26 +63,34 @@ Part 2
 --Connecting to your Module (3 min)
 
 ~~Section 3 (13 minutes total)~~
--Good To Be Home Again
+-Good To Be Home Again: Section 3 is where students start to refactor the website with angular.  In the end they will have a navigation system that uses angular to load menu options making for a dynamic and easily maintained navigation setup.
 --Could you ngRepeat that? (3 min)
 --Building Dynamic Navigation (10 min)
 
 ~~Section 4 (13 minutes total)~~
--Did you See That?
+-Did you See That?: Angular is a powerful tool for creating Single Page Applications so in section 4 we will explore SPAs and code a "shell page" that will eventually be used to display our site.
 --Introduction to Views (3 min)
 --Build a Shell Index Page (10 min) //Move navigation etc from original home to shell page, create landing page 
 
-~~Section 5 (15 minutes total)~~
--Which Way Did He Go?
+~~Section 5 (22 minutes total)~~
+-Which Way Did He Go?: SPAs require routing information inorder to know what page to load and what controllers will be required.  In Section 5 we will cover routing, how to configure it, and refactor our site into a SPA.
 --Explain routing (5 min)
 --Get RouteProvider and wire it in (3 min)
 --Walk through the module.config function (7 min)
+--Refactor the site and to convert it into a full SPA (7 min)
 
 ~~Section 6 (15 min)~~
-Forms, model, and validation <angularize contact page>
+-Forms, model, and validation: Now that the site is a full fledged SPA lets continue refactoring the pages.  In Section 6 we will focus on the Contact page and make it an angularized page with data binding and validation.
+--Discuss Data binding, expand on $scope (5 min)
+--Discuss Model (3 min)
+--Describe how validation works (3 min)
+--Bring it all together building an angularize contact page (5 min)
 
 ~~Section 7 (16 min)~~
-Filter <filter photo albums>
+Filter: In our photo gallery we will learn about filtering images based on keywords and formatting dates by learning about angulars filter, formatting, and sorting capabilities.
+-Clean it up or Straighten it up
+--Discuss how angular sorts, formats, and filters (5 min)
+--Explain formatting
 
 ~~Section 8 (45 min)~~
 Services & Factories (perhaps pull in images from imgur)
