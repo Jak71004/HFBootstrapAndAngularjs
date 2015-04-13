@@ -95,10 +95,22 @@ Filter: In our photo gallery we will learn about filtering images based on keywo
 ~~Section 8 (45 min)~~
 Services & Factories (perhaps pull in images from imgur)
 
-~~Section 9 (25 min)~~
-ngAnimate
+~~Section 9 (33 min)~~
+--Animation Overview (4 min)
+--Animation Examples (2 min)
+--ngAnimate Module (1 min)
+--Adding ngAnimate Script and Module (2 min)
+--Define animations in CSS (5 min)
+--Creating Sytlesheets with CSS transitions (4 min)
+--Referencing Animation Classes (1 min)
+--Hooking Directives to Animations (2 min)
+--Make it move
+---Photo Gallery fade or slide as filtered (4 min)
+---Contact Us input fields shake or bounce when incorrectly entered or missing data (4 min)
+---Animate a "Call to action" on landing page (4 min)
 
-Angular Wrap up
+~~Section 10 (2 min)~~
+Angular Wrap up (2 min)
 
 Part 3
 ~~Session 1 (6 min)~~
