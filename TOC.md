@@ -93,7 +93,19 @@ Filter: In our photo gallery we will learn about filtering images based on keywo
 --Explain formatting
 
 ~~Section 8 (45 min)~~
-Services & Factories (perhaps pull in images from imgur)
+-Overview of Services and Factories (3 min)
+
+-Don't say it again 
+--Reducing redunancy with factories (Creating a Factory) (6 min)
+--Refactor XXX (?Navigation) into a factory (4 min)
+--Open the doors and start production (Implement Factory) ( 5 min)
+
+-How can I help you? 
+--Creating and implementing a Service (7 min)
+--Who you gonna call?  Ajax! (4 min)
+--$http service, promises, and errors (6 min)
+--Use the Service to accept bitcoin payments for our orders through bitpay. (10 min)
+
 
 ~~Section 9 (33 min)~~
 --Animation Overview (4 min)
@@ -132,7 +144,7 @@ Estimated time for finished project: I anticipate about 4 weeks of recording and
 How does this solve a problem(s): Web development skills are vitally important to a wide variety of professionals from entreprenuer to web developer.  This course walks the viewer through learning bootstrap and angular in a natuaral, progressive, and hands-on approach.
 Why video: Video is a great medium for tutorials as it allows complex topics to be broken down into small bite-sized morsels that keep the attention of the participant and allows for easy playback, skipping, and reviewing.
 Competition: Yes.  Due to the practical hands on approach this course will be serious competition for the current courses on the web for angular or bootstrap.
-Video Type: Screencast maybe some talking head
+Video Type: Screencast 
 Where will it be recorded: I will record the course
 Video structure (table of contents with running times)
 
